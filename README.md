@@ -1,6 +1,6 @@
-# Busca-de-Tweets
+# Tweets-Search
 
-Programa para buscar tweets utilizando a API do Twitter e filtrar determinadas palavras chaves e retornar a incidência
+This is a program that uses Twitter own APi to classify tweets with the entered keywords and return how much that topic was tweeted.
 
-Esse programa faz uma busca no Twiiter com a palavra chave especificada faz o tratamento em uma IA
-e retorna o quantos tweets houveram sobre o assunto em um determinado tempo.
+I use an IA to classify the tweets and return a simple graphic to show the results.
+
